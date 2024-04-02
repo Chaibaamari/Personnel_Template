@@ -7,7 +7,7 @@ html {
 .bgimg {
   object-fit: cover;
   background-size: contain;
-  background-image:url("/Img/backgroundnoureddine.jpg");
+  background-image: url("/Img/backgroundnoureddine.jpg");
   height: 100%;
   background-position: center;
   background-size:cover;
