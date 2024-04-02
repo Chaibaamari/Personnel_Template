@@ -5,6 +5,7 @@ html {
 }
 
 .bgimg {
+  background-color : #eeeeee;
  background-image: url("/Img/backgroundnoureddine.jpg");
   object-fit: cover;
   background-size: contain;
