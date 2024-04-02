@@ -5,7 +5,7 @@ html {
 }
 
 .bgimg {
-  background-image: url("./Img/backgroundnoureddine.jpg");
+  background-image: url("../Img/backgroundnoureddine.jpg");
   object-fit: cover;
   background-size: contain;
   height: 100vh;
